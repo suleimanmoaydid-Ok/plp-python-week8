@@ -1,0 +1,80 @@
+Personal Mini-Toolkit
+
+Project Description
+
+The Personal Mini-Toolkit is a Python command-line application developed as part of the Power Learn Project (PLP) Week 8 final project.
+
+It combines three useful Python tools into one program. Users can select a tool from a menu and interact with it until they choose to quit.
+
+Tools Included
+
+1. Simple Calculator
+
+- Performs addition
+- Performs subtraction
+- Performs multiplication
+- Performs division
+- Handles division by zero and invalid number inputs
+
+2. To-Do List Manager
+
+- Allows users to add tasks
+- Displays all saved tasks
+- Allows users to remove tasks
+- Handles empty lists and invalid task numbers
+
+3. Number Guessing Game
+
+- Generates a random number between 1 and 20
+- Allows users to guess the number
+- Gives hints when a guess is too high or too low
+- Counts the number of attempts
+
+Python Concepts Used
+
+This project demonstrates the use of:
+
+- Variables and data types
+- Lists and list methods
+- While loops
+- For loops
+- Conditional statements ("if", "elif", and "else")
+- User input and output
+- Functions and the "random" module
+- Exception handling using "try" and "except"
+- F-strings
+- Comments
+
+How to Run the Program
+
+1. Make sure Python 3 is installed.
+2. Download or clone this repository.
+3. Open the project folder in a Python environment.
+4. Run the following command:
+
+python toolkit.py
+
+The program will display a menu where you can choose which tool to use.
+
+The program can also be run using Pydroid 3 on Android.
+
+Screenshots
+
+The "screenshots" folder contains images showing:
+
+1. The main menu
+2. Invalid menu choice handling
+3. The calculator running
+4. The To-Do List Manager running
+5. The Number Guessing Game running
+
+Project Reflection
+
+The most challenging part of this project was bringing all three tools together in one program using a menu loop. I also had to understand how nested loops work, especially in the To-Do List Manager and Number Guessing Game. One of the main issues I had to handle was preventing invalid user inputs from stopping the program. Testing each tool helped me identify and correct errors. I learned how to use lists, loops, conditionals, exception handling, and the random module in a practical project. If I had one more week, I would improve the toolkit by adding a feature to save tasks permanently so that they are still available when the program is restarted.
+
+Author
+suleiman 
+
+PLP Python Student
+
+Repository: "plp-python-week8"
