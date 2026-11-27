@@ -1,0 +1,69 @@
+PERSONAL MINI-TOOLKIT
+PLP WEEK 8 FINAL PROJECT
+
+1. SIMPLE CALCULATOR
+   This tool will allow users to perform addition, subtraction, multiplication and division.
+
+Concepts used:
+
+- Variables
+- Input and output
+- Conditionals
+- F-strings
+
+2. TO-DO LIST MANAGER
+   This tool will allow users to add, view and remove tasks.
+
+Concepts used:
+
+- Lists
+- Loops
+- Conditionals
+- Input and output
+
+3. NUMBER GUESSING GAME
+   This tool will allow users to guess a secret number and receive feedback until they guess correctly.
+
+Concepts used:
+
+- Variables
+- While loops
+- Conditionals
+- Input and output
+
+MAIN MENU
+
+Welcome to My Personal Mini-Toolkit!
+
+1. Simple Calculator
+2. To-Do List Manager
+3. Number Guessing Game
+4. Quit
+
+Enter your choice (1-4):
+
+PROGRAM BEHAVIOUR
+
+The program will display a welcome message and show a menu.
+
+The menu will keep appearing until the user chooses Quit.
+
+The program will use if, elif and else statements to run the selected tool.
+
+Invalid choices will display a polite error message.
+
+After each tool finishes, the menu will appear again.
+
+A goodbye message will appear when the user quits.
+
+TESTING PLAN
+
+1. Test all calculator operations.
+2. Test adding, viewing and removing tasks.
+3. Test the number guessing game.
+4. Test invalid menu choices.
+5. Test the Quit option.
+
+PROJECT GOAL
+
+To create a simple menu-driven Python program using variables, input, output, conditionals, loops and lists.
